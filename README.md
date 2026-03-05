@@ -27,7 +27,7 @@
 
 ```bash
 {
-  "name"      : "YOUR NAME",
+  "name"      : "RIYA RANI",
   "role"      : "cs student + developer",
   "status"    : "always building something",
   "sleep"     : false,
