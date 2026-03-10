@@ -123,8 +123,8 @@ not a specialist. a **generalist with a dark side.** 🖤
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=riyacore404&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyacore404&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888" />
 
 </div>
 
