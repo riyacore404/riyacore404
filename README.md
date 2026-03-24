@@ -113,21 +113,21 @@ not a specialist. a **generalist with a dark side.** 🖤
 
 ---
 
-### `> git log --oneline`
-
+**the numbers (vanity metrics but they're mine):**
+ 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)](https://git.io/streak-stats)
-
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=riyacore404&theme=dark&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)](https://github.com/riyacore404)
+ 
 </div>
-
+ 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=riyacore404&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyacore404&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888" />
-
+ 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=riyacore404&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyacore404&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=888888&langs_count=6" />
+ 
 </div>
-
+ 
 ---
 
 ### `> cat philosophy.md`
