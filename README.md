@@ -140,6 +140,4 @@ not a specialist. a **collector of half-finished side projects** who ships anywa
 ╚══════════════════════════════════════════════╝
 ```
 
-![visitors](https://komarev.com/ghpvc/?username=riyacore404&color=ffffff&style=flat&label=people+who+have+seen+this)
-
 </div>
