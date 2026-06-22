@@ -123,9 +123,8 @@ not a specialist. a **collector of half-finished side projects** who ships anywa
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/riya-rani28/))
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-0a0a0a?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR_PORTFOLIO](https://riyacore.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-rani28/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://riyacore.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](riyarani.core33@gmail.com)
 
 </div>
