@@ -27,4 +27,6 @@ CS student building toward AI/ML and software engineering roles — comfortable 
 
 ### `> ping me`
 
-[LinkedIn](https://www.linkedin.com/in/riya-rani28/) · [Portfolio](https://riyacore.vercel.app/) · [Email](mailto:riyarani.core33@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-rani28/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://riyacore.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:riyarani.core33@gmail.com)
