@@ -15,13 +15,11 @@ CS student building toward AI/ML and software engineering roles — comfortable 
 
 ### `> ls -la ./tech-stack`
 
-```
-**Languages:** Python · C/C++ · Go · Java · JavaScript/TypeScript · SQL (Postgres)
-**Systems:** eBPF · BPF CO-RE · Linux Tracing · Ring Buffers
-**Web:** React · Next.js · Node.js · REST APIs
-**ML/AI:** PyTorch · TensorFlow · Hugging Face · pandas · NumPy
-**Tools:** Git · GitHub Actions · Docker · AWS
-```
+**Languages:** Python · C/C++ · Go · Java · JavaScript/TypeScript · SQL (Postgres)  
+**Systems:** eBPF · BPF CO-RE · Linux Tracing · Ring Buffers  
+**Web:** React · Next.js · Node.js · REST APIs  
+**ML/AI:** PyTorch · TensorFlow · pandas · NumPy  
+**Tools:** Git · GitHub Actions · Docker · AWS   
 
 ---
 
